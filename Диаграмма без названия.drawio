@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T11:29:37.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.5" etag="Kl_oTbjPRFpb4K_zd-At" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T11:35:04.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="u0493kpBarAkj7brhzOJ" version="24.6.5" type="github">
   <diagram name="Страница — 1" id="TPfuKH7F7XGj_jleTq9D">
-    <mxGraphModel>
+    <mxGraphModel dx="1376" dy="768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iFy1fjjDJ3BSdBZauQhY-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Users&lt;br&gt;&lt;br&gt;First name&lt;br&gt;Last name&amp;nbsp;&lt;br&gt;Phone&amp;nbsp;&lt;br&gt;Password&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-43" y="25" width="143" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="iFy1fjjDJ3BSdBZauQhY-2" value="Records&lt;br&gt;&lt;br&gt;User (First name&amp;amp;Last name)&lt;br&gt;Phone&amp;nbsp;&lt;br&gt;Date&amp;amp;Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="156" y="28" width="143" height="129" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
